@@ -6,6 +6,18 @@
 
 <br>
 
+## Tehnologii folosite
+- Python
+- PyCharm
+- SQL
+- SQLite3
+- SQLiteStudio
+- Git
+- Git Bash
+- GitHub
+
+<br>
+
 ## Task List
 
 """
